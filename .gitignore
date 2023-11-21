@@ -1,2 +1,4 @@
 flagged
 __pycache__
+houseDict
+*.pt
